@@ -1,13 +1,13 @@
 # jsdictionary
 Javascript dictionary data structure
 
-Ininiation:
+Initiation:
 var mydictionary = new jsdictionary();
 
 Add item:
 mydictionary.add("color", "Blue");
 
-Access item:
+Access the item:
 var color = mydictionary["color"];
 
 Methods:
