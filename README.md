@@ -1,19 +1,25 @@
 # jsdictionary
 Javascript dictionary data structure
 
-Initiation: 
+<b>Initiation:</b> 
 
 var mydictionary = new jsdictionary();
+<br/>
+<br/>
 
-Add item:
+<b>Add item:</b>
 
 mydictionary.add("color", "Blue");
+<br/>
+<br/>
 
-Access the item: 
+<b>Access the item: </b>
 
 var color = mydictionary["color"];
+<br/>
+<br/>
 
-Methods: 
+<b>Methods:</b> 
 
 mydictionary.containsKey("color"); 
 
