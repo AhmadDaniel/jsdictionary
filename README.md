@@ -1,5 +1,5 @@
 # jsdictionary
-JavaScript dictionary data structure
+Javascript dictionary data structure
 
 Initiation: 
 var mydictionary = new jsdictionary();
